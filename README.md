@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Integrated-Chatbot-using-Chainlit
 =======
 # langchain-groq-chainlit
